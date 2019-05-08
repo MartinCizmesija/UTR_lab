@@ -118,7 +118,7 @@ public class SimEnka {
                     --commaConuter;
                 }
             }
-            
+
             outputSet.clear();
             System.out.println();
         }
